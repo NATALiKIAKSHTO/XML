@@ -1,5 +1,13 @@
-1. Кякшто Наталья Витальевна 
-2. 22
-3. 1
-4. 5000
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NSF>
+		<name>Natalia</name>
+		<username>Kiakshto</username>
+		<father_name>Vitali</father_name>
+	</NST>
+	<age>22</age>
+	<pets>1</pets>
+	<desired_salary>5000</desired_salary>
+</root>
+
 
