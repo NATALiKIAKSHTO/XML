@@ -1,5 +1,9 @@
-1. дневник памяти
-2. шерлок
-3. весна 
-4. США, Чехия
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<fan_movie>ace_ventura</fan_movie>
+	<fan_TVSHOW>supernatural</fan_TVSHOW>
+	<fan_food>pizza</fan_food>
+	<fan_season>autumn</fan_season>
+	<country_to_visit>usa</country_to_visit>
+</room>
 
